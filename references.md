@@ -1,3 +1,3 @@
-# References
 
-* octocat 1 😈
+refer github/goc for more info.
+
